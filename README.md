@@ -2,4 +2,4 @@
  Repo for NYU XR course work
 
 Branch helloWorld - Assignment 3.1
-![Screenshot](images\helloworld_screenshot.png)
+![Screenshot](https://github.com/icgreen/NYU_XR/blob/helloWorld/images/helloworld_screenshot.png)
