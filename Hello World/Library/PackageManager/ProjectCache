@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637900552073773676
-    m_Hash: 3521293456
+      ticks: 637900563508346901
+    m_Hash: 1341935307
   m_LockFileStatus:
     m_FilePath: D:/D_Drive/Repos/3D_Graphics_AR_VR/NYU/NYU_XR/Hello World/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637900552440945344
-    m_Hash: 2797659484
+      ticks: 637900563508346901
+    m_Hash: 4068469782
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
